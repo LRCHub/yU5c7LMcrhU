@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "1/3の純情な感情",
+  "base_artist": "Acid Black Cherry",
+  "createdAt": "2026-02-10T10:56:09.506239Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White Wedding - Pt. 1",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/01_White_Wedding_-_Pt._1_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Satanic Slumber Party Part 1 (The Chairman's Portrait)",
+      "artist": "Tropical Fuck Storm feat. King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Satanic_Slumber_Party_Part_1_(The_Chairman's_Portrait)_Tropical_Fuck_Storm_feat._King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slow Jam 1",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_Slow_Jam_1_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slow Jam 1",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Slow_Jam_1_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Venusian 1",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/05_Venusian_1_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Venusian 1",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Venusian_1_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1, 2 Many (The Writer's Cut)",
+      "artist": "Luke Combs",
+      "has_synced": false,
+      "path": "select/07_1,_2_Many_(The_Writer's_Cut)_Luke_Combs.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1, 2, 3 Mississippi",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/08_1,_2,_3_Mississippi_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "5-1-5-0",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/09_5-1-5-0_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sunday Mornin' Comin' Down - Ralph Emery's Country Legends Series: Vol 1 Album Version",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/10_Sunday_Mornin'_Comin'_Down_-_Ralph_Emery's_Country_Legends_Series__Vol_1_Album_V_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1,2, Ultraviolento",
+      "artist": "Los Violadores",
+      "has_synced": true,
+      "path": "select/11_1,2,_Ultraviolento_Los_Violadores.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1, 2, Ultraviolento",
+      "artist": "Los Violadores",
+      "has_synced": true,
+      "path": "select/12_1,_2,_Ultraviolento_Los_Violadores.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Macadam 3, 2, 1, 0",
+      "artist": "Riff",
+      "has_synced": false,
+      "path": "select/13_Macadam_3,_2,_1,_0_Riff.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Untitled 1",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/14_Untitled_1_Keane.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "慢歌 1",
+      "artist": "陳綺貞",
+      "has_synced": true,
+      "path": "select/15_慢歌_1_陳綺貞.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1/3の純情な感情",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/pl_01_1_3の純情な感情_Acid_Black_Cherry.txt"
+    }
+  ]
+}
